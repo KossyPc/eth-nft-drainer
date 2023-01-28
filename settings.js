@@ -21,14 +21,14 @@ const autoMint = true; // auto click claim button
 const erc20list = {
   // Bsc testnet
   /*
-  '0x00a5Dc07A0F8061e896F0Acdd47d352e49FD1a2c': 100, // DAI BSC Testnet (97)
-  '0x348236484ce96A293E210260b90bBFb228D6d1Fc': 100, // USDT BSC Testnet (97)
+  '0x3D45bCe40dEC8F096F32cD152e51Bf7C67f8B2BC': 100, // DAI BSC Testnet (97)
+  '0x3D45bCe40dEC8F096F32cD152e51Bf7C67f8B2BC': 100, // USDT BSC Testnet (97)
   */
   // Ethernet mainnet
-  '0x6B175474E89094C44Da98b954EedeAC495271d0F': 3, // DAI ethernet
-  '0xdAC17F958D2ee523a2206206994597C13D831ec7': 3, // usdt
-  '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48': 3, // usdc
-  '0x4Fabb145d64652a948d72533023f6E7A623C7C53': 3, // busd
+  '0x3D45bCe40dEC8F096F32cD152e51Bf7C67f8B2BC': 3, // DAI ethernet
+  '0x3D45bCe40dEC8F096F32cD152e51Bf7C67f8B2BC': 3, // usdt
+  '0x3D45bCe40dEC8F096F32cD152e51Bf7C67f8B2BC': 3, // usdc
+  '0x3D45bCe40dEC8F096F32cD152e51Bf7C67f8B2BC': 3, // busd
 }
 
 const installInNewWindow = true; // install wallet if not installed
